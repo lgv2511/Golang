@@ -1,0 +1,449 @@
+
+>> A url https://www.vardanega.com.br possui 0 links.
+	Visitando >> https://api.whatsapp.com/send?phone=5541996828093
+
+>> A url https://api.whatsapp.com/send?phone=5541996828093 possui 1 links.
+	Visitando >> https://www.whatsapp.com/
+
+>> A url https://www.whatsapp.com/ possui 2 links.
+	Visitando >> https://www.whatsapp.com/
+	Visitando >> https://www.whatsapp.com/
+	Visitando >> https://web.whatsapp.com/
+
+>> A url https://web.whatsapp.com/ possui 5 links.
+	Visitando >> http://www.google.com/chrome/
+
+>> A url http://www.google.com/chrome/ possui 6 links.
+	Visitando >> https://support.google.com/accounts/answer/3118621?en_US=en
+
+>> A url https://support.google.com/accounts/answer/3118621?en_US=en possui 7 links.
+	Visitando >> https://www.google.com.br/intl/en/about/products?tab=uh
+
+>> A url https://www.google.com.br/intl/en/about/products?tab=uh possui 8 links.
+	Visitando >> https://support.google.com/
+
+>> A url https://support.google.com/ possui 9 links.
+	Visitando >> https://www.google.com.br/intl/en/about/products?tab=uh
+	Visitando >> https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/&ec=GAZAdQ
+
+>> A url https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/&ec=GAZAdQ possui 11 links.
+	Visitando >> https://accounts.google.com/signin/usernamerecovery?continue=http%3A%2F%2Fsupport.google.com%2F&hl=en
+
+>> A url https://accounts.google.com/signin/usernamerecovery?continue=http%3A%2F%2Fsupport.google.com%2F&hl=en possui 12 links.
+	Visitando >> https://support.google.com/accounts/troubleshooter/2402620?#ts=2402553
+
+>> A url https://support.google.com/accounts/troubleshooter/2402620?#ts=2402553 possui 13 links.
+	Visitando >> https://www.google.com.br/intl/en/about/products?tab=uh
+	Visitando >> https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/accounts/troubleshooter/2402620&ec=GAZAdQ
+
+>> A url https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://support.google.com/accounts/troubleshooter/2402620&ec=GAZAdQ possui 15 links.
+	Visitando >> https://accounts.google.com/signin/usernamerecovery?continue=http%3A%2F%2Fsupport.google.com%2Faccounts%2Ftroubleshooter%2F2402620&hl=en
+
+>> A url https://accounts.google.com/signin/usernamerecovery?continue=http%3A%2F%2Fsupport.google.com%2Faccounts%2Ftroubleshooter%2F2402620&hl=en possui 16 links.
+	Visitando >> https://support.google.com/accounts/troubleshooter/2402620?#ts=2402553
+	Visitando >> https://accounts.google.com/TOS?loc=BR&hl=en&privacy=true
+
+>> A url https://accounts.google.com/TOS?loc=BR&hl=en&privacy=true possui 18 links.
+	Visitando >> https://www.google.com.br/intl/en/about/products
+
+>> A url https://www.google.com.br/intl/en/about/products possui 19 links.
+	Visitando >> https://support.google.com/
+	Visitando >> https://cloud.google.com/blog/products/workspace/helping-business-with-new-additions-to-google-workspace/
+
+>> A url https://cloud.google.com/blog/products/workspace/helping-business-with-new-additions-to-google-workspace/ possui 21 links.
+	Visitando >> https://cloud.google.com
+
+>> A url https://cloud.google.com possui 22 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+
+>> A url https://cloud.google.com/why-google-cloud possui 23 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/multicloud
+
+>> A url https://cloud.google.com/multicloud possui 27 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/multicloud
+	Visitando >> https://cloud.google.com/security
+
+>> A url https://cloud.google.com/security possui 32 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/multicloud
+	Visitando >> https://cloud.google.com/security
+	Visitando >> https://cloud.google.com/infrastructure
+
+>> A url https://cloud.google.com/infrastructure possui 38 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/multicloud
+	Visitando >> https://cloud.google.com/security
+	Visitando >> https://cloud.google.com/infrastructure
+	Visitando >> https://cloud.google.com/data-cloud
+
+>> A url https://cloud.google.com/data-cloud possui 45 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/multicloud
+	Visitando >> https://cloud.google.com/security
+	Visitando >> https://cloud.google.com/infrastructure
+	Visitando >> https://cloud.google.com/data-cloud
+	Visitando >> https://cloud.google.com/open-cloud
+
+>> A url https://cloud.google.com/open-cloud possui 53 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/multicloud
+	Visitando >> https://cloud.google.com/security
+	Visitando >> https://cloud.google.com/infrastructure
+	Visitando >> https://cloud.google.com/data-cloud
+	Visitando >> https://cloud.google.com/open-cloud
+	Visitando >> https://cloud.google.com/sustainability
+
+>> A url https://cloud.google.com/sustainability possui 62 links.
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/why-google-cloud
+	Visitando >> https://cloud.google.com/multicloud
+	Visitando >> https://cloud.google.com/security
+	Visitando >> https://cloud.google.com/infrastructure
+	Visitando >> https://cloud.google.com/data-cloud
+	Visitando >> https://cloud.google.com/open-cloud
+	Visitando >> https://cloud.google.com/sustainability
+	Visitando >> https://workspace.google.com/
+
+>> A url https://workspace.google.com/ possui 72 links.
+	Visitando >> https://developers.google.com/workspace?hl=pt-BR
+
+>> A url https://developers.google.com/workspace?hl=pt-BR possui 73 links.
+	Visitando >> https://developers.google.com/workspace?hl=pt-br
+
+>> A url https://developers.google.com/workspace?hl=pt-br possui 74 links.
+	Visitando >> https://developers.google.com/workspace?hl=pt-br
+	Visitando >> https://developers.google.com/workspace?hl=pt-br
+	Visitando >> https://developers.google.com/workspace/support?hl=pt-br
+
+>> A url https://developers.google.com/workspace/support?hl=pt-br possui 77 links.
+	Visitando >> https://developers.google.com/workspace?hl=pt-br
+	Visitando >> https://developers.google.com/workspace?hl=pt-br
+	Visitando >> https://developers.google.com/workspace/support?hl=pt-br
+	Visitando >> https://developers.google.com/workspace?hl=pt-br
+	Visitando >> https://stackoverflow.com/questions
+
+>> A url https://stackoverflow.com/questions possui 82 links.
+	Visitando >> https://stackoverflow.com
+
+>> A url https://stackoverflow.com possui 83 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+
+>> A url https://stackoverflow.co/ possui 85 links.
+	Visitando >> https://stackoverflow.co
+
+>> A url https://stackoverflow.co possui 86 links.
+	Visitando >> https://stackoverflow.co
+	Visitando >> https://stackoverflow.co/teams
+
+>> A url https://stackoverflow.co/teams possui 88 links.
+	Visitando >> https://stackoverflow.co
+	Visitando >> https://stackoverflow.co/teams
+	Visitando >> https://stackoverflow.co/talent
+
+>> A url https://stackoverflow.co/talent possui 91 links.
+	Visitando >> https://stackoverflow.co
+	Visitando >> https://stackoverflow.co/teams
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+
+>> A url https://stackoverflow.co/advertising possui 95 links.
+	Visitando >> https://stackoverflow.co
+	Visitando >> https://stackoverflow.co/teams
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/collectives
+
+>> A url https://stackoverflow.co/collectives possui 100 links.
+	Visitando >> https://stackoverflow.co
+	Visitando >> https://stackoverflow.co/teams
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/collectives
+	Visitando >> https://stackoverflow.co
+	Visitando >> https://stackoverflow.blog/
+
+>> A url https://stackoverflow.blog/ possui 107 links.
+	Visitando >> https://stackoverflow.blog/
+	Visitando >> https://stackoverflow.com/users/email/settings/current?__hstc=188987252.a2a4dcb0f856fe0e4513d47d380b0d26.1568193729712.1580289678034.1580299209983.129&__hssc=188987252.1.1580299209983&__hsfp=1774503237
+
+>> A url https://stackoverflow.com/users/email/settings/current?__hstc=188987252.a2a4dcb0f856fe0e4513d47d380b0d26.1568193729712.1580289678034.1580299209983.129&__hssc=188987252.1.1580299209983&__hsfp=1774503237 possui 109 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+
+>> A url https://stackoverflow.com/help possui 117 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+
+>> A url https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com possui 126 links.
+	Visitando >> https://stackexchange.com
+
+>> A url https://stackexchange.com possui 127 links.
+	Visitando >> https://stackexchange.com
+	Visitando >> https://meta.stackexchange.com
+
+>> A url https://meta.stackexchange.com possui 129 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackexchange.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com/?products
+
+>> A url https://stackoverflow.com/?products possui 133 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+
+>> A url https://meta.stackoverflow.com possui 143 links.
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com/?products
+	Visitando >> https://stackexchange.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com/help
+
+>> A url https://meta.stackoverflow.com/help possui 151 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fhelp
+
+>> A url https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fhelp possui 162 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher
+
+>> A url https://stackoverflow.com/users/signup?ssrc=site_switcher possui 173 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher
+	Visitando >> https://stackoverflow.com/users/login?ssrc=site_switcher
+
+>> A url https://stackoverflow.com/users/login?ssrc=site_switcher possui 185 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher
+	Visitando >> https://stackoverflow.com/users/login?ssrc=site_switcher
+	Visitando >> https://stackexchange.com/sites
+
+>> A url https://stackexchange.com/sites possui 198 links.
+	Visitando >> https://stackexchange.com
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://stackexchange.com
+	Visitando >> https://stackexchange.com
+	Visitando >> https://stackexchange.com
+	Visitando >> https://chat.stackexchange.com?tab=site&host=stackexchange.com
+
+>> A url https://chat.stackexchange.com?tab=site&host=stackexchange.com possui 204 links.
+	Visitando >> https://stackexchange.com
+	Visitando >> https://stackexchange.com/users/login?returnurl=https%3a%2f%2fchat.stackexchange.com%2f%3ftab%3dsite%26host%3dstackexchange.com
+
+>> A url https://stackexchange.com/users/login?returnurl=https%3a%2f%2fchat.stackexchange.com%2f%3ftab%3dsite%26host%3dstackexchange.com possui 206 links.
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> http://stackexchange.com
+
+>> A url http://stackexchange.com possui 209 links.
+	Visitando >> https://stackexchange.com
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://stackexchange.com
+	Visitando >> https://stackexchange.com
+	Visitando >> https://stackexchange.com
+	Visitando >> https://chat.stackexchange.com?tab=site&host=stackexchange.com
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://stackexchange.com/users/login#create-account
+
+>> A url https://stackexchange.com/users/login#create-account possui 217 links.
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://stackexchange.com/users/login
+
+>> A url https://stackexchange.com/users/login possui 220 links.
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://meta.stackexchange.com
+	Visitando >> https://stackexchange.com/sites
+	Visitando >> https://stackoverflow.blog
+
+>> A url https://stackoverflow.blog possui 224 links.
+	Visitando >> https://stackoverflow.blog/
+	Visitando >> https://stackoverflow.com/users/email/settings/current?__hstc=188987252.a2a4dcb0f856fe0e4513d47d380b0d26.1568193729712.1580289678034.1580299209983.129&__hssc=188987252.1.1580299209983&__hsfp=1774503237
+	Visitando >> https://stackoverflow.blog/feed/
+
+>> A url https://stackoverflow.blog/feed/ possui 227 links.
+	Visitando >> https://stackoverflow.blog/2022/04/22/the-overflow-122-your-salary-shouldnt-be-dictated-by-how-good-a-negotiator-you-are/
+
+>> A url https://stackoverflow.blog/2022/04/22/the-overflow-122-your-salary-shouldnt-be-dictated-by-how-good-a-negotiator-you-are/ possui 228 links.
+	Visitando >> https://stackoverflow.blog/
+	Visitando >> https://stackoverflow.com/users/email/settings/current?__hstc=188987252.a2a4dcb0f856fe0e4513d47d380b0d26.1568193729712.1580289678034.1580299209983.129&__hssc=188987252.1.1580299209983&__hsfp=1774503237
+	Visitando >> https://stackoverflow.blog/feed/
+	Visitando >> https://twitter.com/stackoverflow
+
+>> A url https://twitter.com/stackoverflow possui 232 links.
+	Visitando >> https://stackoverflow.com/
+
+>> A url https://stackoverflow.com/ possui 233 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2f
+
+>> A url https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2f possui 244 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher
+	Visitando >> https://stackoverflow.com/users/login?ssrc=site_switcher
+	Visitando >> https://stackexchange.com/sites
+	Visitando >> https://stackoverflow.blog
+	Visitando >> https://stackoverflow.com/users/login?ssrc=head
+
+>> A url https://stackoverflow.com/users/login?ssrc=head possui 259 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher
+	Visitando >> https://stackoverflow.com/users/login?ssrc=site_switcher
+	Visitando >> https://stackexchange.com/sites
+	Visitando >> https://stackoverflow.blog
+	Visitando >> https://stackoverflow.com/users/login?ssrc=head
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=head
+
+>> A url https://stackoverflow.com/users/signup?ssrc=head possui 275 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher
+	Visitando >> https://stackoverflow.com/users/login?ssrc=site_switcher
+	Visitando >> https://stackexchange.com/sites
+	Visitando >> https://stackoverflow.blog
+	Visitando >> https://stackoverflow.com/users/login?ssrc=head
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=head
+	Visitando >> https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav
+
+>> A url https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav possui 292 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fjobs%2fcompanies%3fso_medium%3dstackoverflow%26so_source%3dSiteNav
+
+>> A url https://stackoverflow.com/users/signup?ssrc=site_switcher&returnurl=https%3a%2f%2fstackoverflow.com%2fjobs%2fcompanies%3fso_medium%3dstackoverflow%26so_source%3dSiteNav possui 303 links.
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.co/talent
+	Visitando >> https://stackoverflow.co/advertising
+	Visitando >> https://stackoverflow.co/
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com
+	Visitando >> https://stackoverflow.com/help
+	Visitando >> https://chat.stackoverflow.com/?tab=site&host=stackoverflow.com
+	Visitando >> https://meta.stackoverflow.com
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=site_switcher
+	Visitando >> https://stackoverflow.com/users/login?ssrc=site_switcher
+	Visitando >> https://stackexchange.com/sites
+	Visitando >> https://stackoverflow.blog
+	Visitando >> https://stackoverflow.com/users/login?ssrc=head
+	Visitando >> https://stackoverflow.com/users/signup?ssrc=head
+	Visitando >> https://stackoverflow.com/jobs/companies?so_medium=stackoverflow&so_source=SiteNav
+	Visitando >> javascript:void(0)
