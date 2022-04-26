@@ -13,6 +13,7 @@ import (
 var (
 	links   []string
 	visited map[string]bool = map[string]bool{}
+	limite  int
 )
 
 func menu() string {
@@ -45,7 +46,12 @@ func verificaLink(url string) {
 		if err != nil {
 			panic(err)
 		}
+		limite -= 1
+		if limite < 0 {
+			os.Exit(0)
+		}
 		msg := "\n>> A url " + url + " possui " + strconv.Itoa(len(links)) + " links."
+		fmt.Println("Restam ", limite, "saltos")
 		fmt.Println(msg)
 		geraLog(msg)
 		extraiLinks(doc)
@@ -87,6 +93,7 @@ func geraLog(mensagem string) {
 }
 
 func main() {
+	limite = 20
 	url := menu()
 	if len(url) == 0 {
 		fmt.Println("Encerrando...")
