@@ -1,0 +1,77 @@
+
+>> A url https://www.provida.net possui 0 links.
+	Visitando >> https://www.provida.net/pt/home-pt/
+
+>> A url https://www.provida.net/pt/home-pt/ possui 1 links.
+	Visitando >> https://www.provida.net/pt/home-pt/
+	Visitando >> https://www.provida.net/es/home-es/
+
+>> A url https://www.provida.net/es/home-es/ possui 3 links.
+	Visitando >> https://www.provida.net/pt/home-pt/
+	Visitando >> https://www.provida.net/es/home-es/
+	Visitando >> https://www.provida.net/it/home-it/
+
+>> A url https://www.provida.net/it/home-it/ possui 6 links.
+	Visitando >> https://www.provida.net/pt/home-pt/
+	Visitando >> https://www.provida.net/es/home-es/
+	Visitando >> https://www.provida.net/it/home-it/
+	Visitando >> https://www.provida.net/en/home-en/
+
+>> A url https://www.provida.net/en/home-en/ possui 10 links.
+	Visitando >> https://www.provida.net/pt/home-pt/
+	Visitando >> https://www.provida.net/es/home-es/
+	Visitando >> https://www.provida.net/it/home-it/
+	Visitando >> https://www.provida.net/en/home-en/
+	Visitando >> https://www.provida.net/fr/home-fr/
+
+>> A url https://www.provida.net/fr/home-fr/ possui 15 links.
+	Visitando >> https://www.provida.net/pt/home-pt/
+	Visitando >> https://www.provida.net/es/home-es/
+	Visitando >> https://www.provida.net/it/home-it/
+	Visitando >> https://www.provida.net/en/home-en/
+	Visitando >> https://www.provida.net/fr/home-fr/
+	Visitando >> http://home.provida.net/
+
+>> A url http://home.provida.net/ possui 21 links.
+	Visitando >> https://onboard.provida.digital/pt-br/user/
+
+>> A url https://onboard.provida.digital/pt-br/user/ possui 22 links.
+	Visitando >> https://www.provida.net/pt/suporte/
+
+>> A url https://www.provida.net/pt/suporte/ possui 23 links.
+	Visitando >> https://www.provida.net/pt/suporte/
+	Visitando >> https://www.provida.net/es/soporte/
+
+>> A url https://www.provida.net/es/soporte/ possui 25 links.
+	Visitando >> https://www.provida.net/pt/suporte/
+	Visitando >> https://www.provida.net/es/soporte/
+	Visitando >> https://www.provida.net/it/supporto/
+
+>> A url https://www.provida.net/it/supporto/ possui 28 links.
+	Visitando >> https://www.provida.net/pt/suporte/
+	Visitando >> https://www.provida.net/es/soporte/
+	Visitando >> https://www.provida.net/it/supporto/
+	Visitando >> https://www.provida.net/en/support/
+
+>> A url https://www.provida.net/en/support/ possui 32 links.
+	Visitando >> https://www.provida.net/pt/suporte/
+	Visitando >> https://www.provida.net/es/soporte/
+	Visitando >> https://www.provida.net/it/supporto/
+	Visitando >> https://www.provida.net/en/support/
+	Visitando >> https://www.provida.net/fr/soutien/
+
+>> A url https://www.provida.net/fr/soutien/ possui 37 links.
+	Visitando >> https://www.provida.net/pt/suporte/
+	Visitando >> https://www.provida.net/es/soporte/
+	Visitando >> https://www.provida.net/it/supporto/
+	Visitando >> https://www.provida.net/en/support/
+	Visitando >> https://www.provida.net/fr/soutien/
+	Visitando >> http://home.provida.net/
+	Visitando >> https://home.provida.net/
+
+>> A url https://home.provida.net/ possui 44 links.
+	Visitando >> https://onboard.provida.digital/pt-br/user/
+	Visitando >> https://www.provida.net/pt/suporte/
+	Visitando >> https://home.provida.net/
+	Visitando >> https://www.provida.net/fr/home-fr/
+	Visitando >> mailto:tecnica@provida.net
